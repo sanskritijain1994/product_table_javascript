@@ -1,0 +1,21 @@
+.frm{
+    margin-top: 30px;
+    margin-left: 50px;
+}
+label{
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+input{
+    height: 20px;
+    margin-left: 10px;
+   
+}
+button{
+    height: 4em;
+    width: 12em;
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background: white;
+}
